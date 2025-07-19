@@ -1,0 +1,9 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "mapping": {
+    "abc123": "Alpha",
+    "def456": "Beta",
+    "ghi789": "Gamma"
+    /* ... 最大 100 件程度まで OK */
+  }
+}
